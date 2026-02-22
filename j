@@ -1,8 +1,8 @@
 --use it carefully saar
 task.spawn(function()
 	local Settings = {
-        LockRange = 30,
-        Smoothness = 0.5,
+        LockRange = 45,
+        Smoothness = 0.2,
         TPWalkSpeed = 0.5,
         OnslaughtDur = 4.5, 
         Key2Dur = 2.5,      
