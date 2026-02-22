@@ -1,4 +1,4 @@
---use it carefully saar
+--use it carefully saarv2
 task.spawn(function()
 	local Settings = {
         LockRange = 45,
