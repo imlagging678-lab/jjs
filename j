@@ -2,7 +2,7 @@
 task.spawn(function()
 	local Settings = {
         LockRange = 45,
-        Smoothness = 0.2,
+        Smoothness = 0.8,
         TPWalkSpeed = 0.5,
         OnslaughtDur = 4.5, 
         Key2Dur = 2.5,      
